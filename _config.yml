@@ -1,0 +1,28 @@
+name: LadyBird Blues
+favicon: null
+layout_spectrum: 0.2635852221865207
+typography_spectrum: 0.392149465624243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2777417136821896
+  lightness: 0.7687084027566016
+  saturation: 0.8685825865250081
+  rhythmicContrast: 0.6376527431420982
+purpose: []
